@@ -16478,7 +16478,7 @@ static const struct LevelUpMove sKeldeoLevelUpLearnset[] = {
 
 static const struct LevelUpMove sMeloettaLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_ROUND),
-    LEVEL_UP_MOVE( 1, MOVE_RELIC_SONG),
+    LEVEL_UP_MOVE( 1, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE( 1, MOVE_CONFUSION),
     LEVEL_UP_MOVE( 1, MOVE_SING),
     LEVEL_UP_MOVE( 6, MOVE_QUICK_ATTACK),
